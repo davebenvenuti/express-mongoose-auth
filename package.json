@@ -1,0 +1,37 @@
+{
+  "name": "express-mongoose-auth",
+  "description": "Basic user login for express apps using mongoose",
+  "version": "0.0.1",
+  "author": "Dave Benvenuti <davebenvenuti@gmail.com>",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "bluebird": "~1.2.4",
+    "mongoose": "~3.8.8"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "express": "*",
+    "body-parser": "*",
+    "cookie-session": "*",
+    "supertest": "*",
+    "superagent": "*",
+    "expect.js": "*"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "mongo",
+    "mongodb",
+    "login",
+    "auth",
+    "authentication"
+  ],
+  "repository": "git://github.com/davebenvenuti/express-mongoose-auth",
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT"
+}
