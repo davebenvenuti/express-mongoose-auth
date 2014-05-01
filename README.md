@@ -87,7 +87,7 @@ app.get('/something_you_need_to_be_logged_in_to_see, myRequireUser(), function(r
 
 ```
 
-** TODO
+## TODO
 
 * Use bcrypt
 * Entitlements support
