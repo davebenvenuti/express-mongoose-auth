@@ -3,6 +3,8 @@ express-mongoose-auth
 
 Username/password auth for express apps with Mongoose-backed user models
 
+[![Build Status](https://secure.travis-ci.org/davebenvenuti/express-mongoose-auth.png)](http://travis-ci.org/davebenvenuti/express-mongoose-auth)
+
 ## Getting Started
 
 Install with npm
