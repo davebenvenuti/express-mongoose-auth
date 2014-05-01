@@ -5,7 +5,9 @@ Username/password auth for express apps with Mongoose-backed user models
 
 ## Getting Started
 
-Install the module with npm (soon...)
+Install with npm
+
+  $ npm install express-mongoose-auth
 
 ## Model Setup
 
