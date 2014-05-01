@@ -10,5 +10,4 @@ var routeEnhancements = require('./lib/route_enhancements');
 exports.loginUser = routeEnhancements.loginUser;
 
 exports.requireUser = routeEnhancements.requireUser;
-exports.requireEntitlement = routeEnhancements.requireEntitlement;
 
